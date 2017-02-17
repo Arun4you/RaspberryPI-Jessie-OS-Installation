@@ -1,5 +1,5 @@
 # RaspberryPI-Jessie-OS-Installation
 
-![alt tag](RaspberryPI-Jessie-OS-Installation/ssh file creation.png)
+![alt tag](https://github.com/Arun4you/RaspberryPI-Jessie-OS-Installation/blob/master/ssh_file_creation.png)
 
-<img src="RaspberryPI-Jessie-OS-Installation/ssh file creation.png" width="350"/>
+<img src="https://github.com/Arun4you/RaspberryPI-Jessie-OS-Installation/blob/master/ssh_file_creation.png" width="350"/>
